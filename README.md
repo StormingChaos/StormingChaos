@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently working towards a Bachelor's in Software Engineering.
+B.E.Sc. Software Engineering from Western University
 <!--
 **StormingChaos/StormingChaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
